@@ -1,0 +1,15 @@
+{C:/Users/Clare/OneDrive/[UBC] Undergraduate Junior/CPEN311/lab-0-ad2969-master/src/adder.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Clare/OneDrive/[UBC] Undergraduate Junior/CPEN311/lab-0-ad2969-master/src/adder.sv}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Users/Clare/OneDrive/[UBC] Undergraduate Junior/CPEN311/lab-0-ad2969-master/src/tb_adder.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Clare/OneDrive/[UBC] Undergraduate Junior/CPEN311/lab-0-ad2969-master/src/tb_adder.sv}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module tb_adder
+
+Top level modules:
+	tb_adder
+
+} {} {}}
